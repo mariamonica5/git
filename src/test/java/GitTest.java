@@ -23,7 +23,7 @@ public class GitTest {
 
         Git pers = new Git();
 
-        assertEquals(pers.getName(), "Ana");
+        assertEquals(pers.getName(), "Anamaria");
     }
 
 }
